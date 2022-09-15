@@ -1,0 +1,25 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(55,100,219,1) 35%, rgba(0,212,255,1) 100%);
+}
+#image_heading{
+    font-size: 50px;
+    font-weight: 300;
+    font-family: 'Dancing Script', cursive;
+}
+hr{
+    width: 50%;
+}
+label{
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+}
+label:hover{
+    color:white;
+    font-size: 40px;
+}
+.name_of_object:hover{
+    font-size: 15px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
